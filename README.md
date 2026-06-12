@@ -65,3 +65,7 @@ https://your-lucidchart-link-here
 ## Conclusion
 
 The Samsung AI Family Hub Smart Refrigerator improves the overall kitchen experience by combining artificial intelligence, inventory tracking, recipe recommendations, and smart home connectivity. The user journey demonstrates how AI can simplify daily household tasks and create a more efficient lifestyle.
+
+
+
+https://lucid.app/lucidchart/b12d2441-8bae-44c9-8164-b46d17b50ae0/edit?viewport_loc=-1300%2C-1244%2C7362%2C3542%2C0_0&invitationId=inv_0fac8943-b944-4ebe-9eb2-262f8bf40a84
